@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-deck-apu",
+    "name": "The Van Gogh APU",
+    "epithet": "a PC chip in hand · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Van Gogh APU:DECK:636957⟧"
+  },
+  {
+    "slug": "the-deck-os",
+    "name": "SteamOS + Proton",
+    "epithet": "Linux that plays Windows games · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦SteamOS + Proton:DECK:ac43a3⟧"
+  },
+  {
+    "slug": "the-deck-desktop",
+    "name": "Desktop Mode",
+    "epithet": "it is a real computer · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Desktop Mode:DECK:dcc25d⟧"
+  },
+  {
+    "slug": "the-deck-trackpads",
+    "name": "The Trackpads",
+    "epithet": "mouse control, in hand · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Trackpads:DECK:c7dbc8⟧"
+  },
+  {
+    "slug": "the-deck-ram",
+    "name": "The RAM",
+    "epithet": "unified, generous · natural",
+    "emergence": "natural",
+    "moniker": "⟦The RAM:DECK:8d9cf6⟧"
+  },
+  {
+    "slug": "the-deck-ssd",
+    "name": "The Storage",
+    "epithet": "solid-state, expandable · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Storage:DECK:b091d6⟧"
+  },
+  {
+    "slug": "the-deck-open",
+    "name": "Open & Repairable",
+    "epithet": "unlocked and serviceable · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Open & Repairable:DECK:638018⟧"
+  }
+]

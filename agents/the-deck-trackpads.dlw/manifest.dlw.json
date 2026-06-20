@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Trackpads",
+  "universe": "DECK · The Trackpads (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Trackpads:DECK:c7dbc8⟧",
+  "carbon": "the-deck-trackpads.carbon.tiff (TIFF)",
+  "silicon": "the-deck-trackpads.silicon.png (PNG)",
+  "seal_sha256": "fb636e381129f03eec3313317eefa80c8a098d22f4c2c90cd559ef59e98e9293",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

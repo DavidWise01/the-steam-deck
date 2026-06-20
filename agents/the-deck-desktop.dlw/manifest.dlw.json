@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Desktop Mode",
+  "universe": "DECK · Desktop Mode (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦Desktop Mode:DECK:dcc25d⟧",
+  "carbon": "the-deck-desktop.carbon.tiff (TIFF)",
+  "silicon": "the-deck-desktop.silicon.png (PNG)",
+  "seal_sha256": "14e5babb5048085de43da2559ae0fa3f35e13d71171897db8fb7c0dc1225807b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

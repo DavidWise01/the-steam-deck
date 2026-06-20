@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The RAM",
+  "universe": "DECK · The RAM (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The RAM:DECK:8d9cf6⟧",
+  "carbon": "the-deck-ram.carbon.tiff (TIFF)",
+  "silicon": "the-deck-ram.silicon.png (PNG)",
+  "seal_sha256": "252b5525505c32f09a2eb6ede8f25740fa1a77e59020316a03a4ed4d29062f96",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

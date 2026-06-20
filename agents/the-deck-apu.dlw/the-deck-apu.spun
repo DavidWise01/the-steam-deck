@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Van Gogh APU
+node DECK · DECK · ⟦The Van Gogh APU:DECK:636957⟧
+
+WHO   — The Van Gogh APU — a PC chip in hand · electrical
+WHAT  — a PC chip in hand · electrical
+WHERE — DECK · VALVE STEAM DECK (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — An AMD APU with four Zen 2 x86 cores and an RDNA 2 GPU (~1.6 TFLOPS) — full PC architecture in a handheld, the heart of the Deck.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  a PC chip in hand · electrical
+
+spoken token : rern-brei-lin   ·   hex : 636957
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

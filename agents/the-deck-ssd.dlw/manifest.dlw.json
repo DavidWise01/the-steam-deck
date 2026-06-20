@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Storage",
+  "universe": "DECK · The Storage (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Storage:DECK:b091d6⟧",
+  "carbon": "the-deck-ssd.carbon.tiff (TIFF)",
+  "silicon": "the-deck-ssd.silicon.png (PNG)",
+  "seal_sha256": "c986711eebc7176dd4166b27a6e8f439e3c71a7459a6a93c8e25f94f238a21f9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
