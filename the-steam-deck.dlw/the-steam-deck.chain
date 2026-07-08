@@ -4,6 +4,6 @@ slug  : the-steam-deck
 seal  : da355f7de1230891d66146192ab409b65c558511b4969663925e6143204062f9
 prev  : a1cacba129fc9d28859ae10c89763441137891af5e3c8e89bd0e61c72384caff
 link  : ff704eecfe3c11ff80eff5424be35c4b42528931e6b3010a21c4b36c5fd584ff
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
